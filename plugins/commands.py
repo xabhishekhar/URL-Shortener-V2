@@ -34,7 +34,7 @@ avl_web = [
     "droplink.co",
     "gplinks.in",
     "tnlink.in",
-    "za.gl",
+    "omegalinks.in",
     "du-link.in",
     "viplink.in",
     "shorturllink.in",
